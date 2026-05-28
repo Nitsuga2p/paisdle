@@ -1,3 +1,4 @@
+import streamlit as st
 print("Bienvenido a paisdle 🌎")
 import random
 import unicodedata
