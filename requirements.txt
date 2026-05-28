@@ -1,7 +1,2 @@
 streamlit
-pandas
-Pillow
-Fore
-Style
-unicodedata
-init
+colorama
