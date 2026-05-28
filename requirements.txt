@@ -1,2 +1,2 @@
-streamlit
-colorama
+streamlit==1.45.1
+colorama==0.4.6
